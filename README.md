@@ -88,7 +88,7 @@ You can use tags to add additional information to a bucket, such as a project co
 14. You will receive a `403 Forbidden` message because you have not yet configured the bucket permissions. Keep this tab open in your web browser so that you can return to it later.
 
 15. You have now configured your bucket to host a static website.
-
+![AWS](https://github.com/Sohaib63/AWS-Lab-7/blob/main/Screenshot%20(57).png)
 ## Task 2: Uploading content to your bucket
 
 In this task, you will upload the static files to your bucket.
@@ -111,6 +111,7 @@ In this task, you will upload the static files to your bucket.
 6. Choose **Upload**.
 
 Your files are uploaded to the bucket.
+![AWS](https://github.com/Sohaib63/AWS-Lab-7/blob/main/Screenshot%20(58).png)
 
 ## Task 3: Enabling access to the objects
 
@@ -146,7 +147,8 @@ Your static website is now publicly accessible.
 Return to the web browser tab that has the 403 Forbidden message.
 Refresh the webpage.
 You should now see the static website that is being hosted by Amazon S3.
-
+![AWS](https://github.com/Sohaib63/AWS-Lab-7/blob/main/Screenshot%20(59).png)
+![AWS](https://github.com/Sohaib63/AWS-Lab-7/blob/main/Screenshot%20(60).png)
 ## Task 4: Updating the website
 
 You can change the website by editing the HTML file and uploading it again to the S3 bucket.
@@ -166,6 +168,8 @@ Your static website is now accessible on the internet. Because it is hosted on A
 
 You can also use your own domain name to direct users to a static website that is hosted on Amazon S3. To accomplish this, you could use the Amazon Route 53 Domain Name System (DNS) service in combination with Amazon S3.
 
+![AWS](https://github.com/Sohaib63/AWS-Lab-7/blob/main/Screenshot%20(61).png)
+![AWS](https://github.com/Sohaib63/AWS-Lab-7/blob/main/Screenshot%20(62).png)
 ## Submitting your work
 ---------------------
 At the top of these instructions, choose **Submit** to record your progress and when prompted, choose **Yes**.
